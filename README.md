@@ -21,6 +21,15 @@ Here are some ideas to get you started:
   ![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello%World&color=auto)
 </div>
 
+👋 안녕하세요! 저의 깃허브에 들어와 주셔서 감사합니다!
+<p>
+  몰입을 좋아하는 예비 개발자입니다!
+
+- 🌱 저는 현재 스프링 부트캠프 교육을 받고 있습니다!
+- 🤔 저는 문제해결을 중요시 생각하고 있습니다!
+- 💬 질문이 있으시면 언제든지 주세요!
+  </p>
+
 # <b>Stacks</b>
 -------------
 # Tool
@@ -32,7 +41,6 @@ Here are some ideas to get you started:
 </p>
 
 # Language
--------------
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
