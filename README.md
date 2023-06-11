@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello%World&color=auto)
+  ![header](https://capsule-render.vercel.app/api?type=transparent&text=IMMERSION&color=auto)
 </div>
 
 👋 안녕하세요! 저의 깃허브에 들어와 주셔서 감사합니다!
