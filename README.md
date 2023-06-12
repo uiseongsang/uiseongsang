@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 
 ![Uiseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=uiseongsang&show_icons=true&theme=radical)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
